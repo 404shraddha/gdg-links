@@ -1,22 +1,5 @@
-# GDG at Rungta University Link Hub
+# GDG Links
 
-A minimal, ad-free link-in-bio site built with Next.js, TypeScript and Tailwind CSS.
-
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-Open http://localhost:3000
-
-## Build for production
-
-```bash
-npm run build
-npm start
-```
 
 ## Edit links
 
