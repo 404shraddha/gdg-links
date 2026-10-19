@@ -5,29 +5,35 @@ import { ArrowUpRight, CalendarDays, Github, Instagram, Linkedin, MessageCircle,
 
 const links = [
   {
-    label: 'Antigravity × Gemma Bootcamp',
-    meta: '14 October 2026 · Register',
+    label: 'Google Gemini Hackathon',
+    meta: 'An 8-hour hackathon to build AI-powered solutions using Google Gemini',
     icon: CalendarDays,
     featured: true,
-    href: 'https://gdg.community.dev/e/mrhzmk/',
+    href: 'https://ruverse.rungta.ac.in/events/google-gemini-hackathon',
+  },
+  {
+    label: 'Tech Roast Battle',
+    meta: 'A tech roast showdown where coding culture, tech trends, and developer stereotypes are fair game.',
+    icon: CalendarDays,
+    href: 'https://ruverse.rungta.ac.in/events/tech-roast-battle',
+  },
+  {
+    label: 'Canva Workshop',
+    meta: 'Learn design tips, creative workflows, and Canva tricks from a Canva Legend and Verified Expert.',
+    icon: CalendarDays,
+    href: 'https://ruverse.rungta.ac.in/events/canva-session',
+  },
+   {
+    label: 'Tech Dialogues - Google Speaker Session',
+    meta: 'Get industry insights, career perspectives, and real-world tech knowledge straight from Google employees.',
+    icon: CalendarDays,
+    href: 'https://ruverse.rungta.ac.in/events/google-speaker-session',
   },
   {
     label: 'GDG Afterhours',
-    meta: 'Ask, build & help each other',
+    meta: 'Community to ask, build & help each other',
     icon: MessageCircle,
-    href: '#community',
-  },
-  {
-    label: 'Upcoming Events',
-    meta: 'Workshops, meetups & more',
-    icon: CalendarDays,
-    href: 'https://gdg.community.dev/',
-  },
-  {
-    label: 'Join our Community',
-    meta: 'Stay in the loop',
-    icon: Users,
-    href: '#community',
+    href: 'https://chat.whatsapp.com/C1ALOpbDi1j2DLPBF341jM',
   },
 ];
 
